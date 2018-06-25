@@ -1,0 +1,15 @@
+#addNew{
+    display: none;
+}
+#error{
+    display: none;
+    padding: 10px;
+    text-align: center;
+}
+#formTitle{
+    text-align: center;
+    font-weight: bold;
+}
+.container{
+    margin-top: 15px;
+}
